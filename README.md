@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/pokephantom98765/DSA_Journey/tree/master/0031-next-permutation) |
 | [0152-maximum-product-subarray](https://github.com/pokephantom98765/DSA_Journey/tree/master/0152-maximum-product-subarray) |
+| [0228-summary-ranges](https://github.com/pokephantom98765/DSA_Journey/tree/master/0228-summary-ranges) |
 | [0561-array-partition](https://github.com/pokephantom98765/DSA_Journey/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pokephantom98765/DSA_Journey/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/pokephantom98765/DSA_Journey/tree/master/0724-find-pivot-index) |
