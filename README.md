@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/pokephantom98765/DSA_Journey/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/pokephantom98765/DSA_Journey/tree/master/0724-find-pivot-index) |
 | [1089-duplicate-zeros](https://github.com/pokephantom98765/DSA_Journey/tree/master/1089-duplicate-zeros) |
+| [1991-find-the-middle-index-in-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/pokephantom98765/DSA_Journey/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
