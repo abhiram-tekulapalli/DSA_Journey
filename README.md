@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/pokephantom98765/DSA_Journey/tree/master/0228-summary-ranges) |
 | [0561-array-partition](https://github.com/pokephantom98765/DSA_Journey/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pokephantom98765/DSA_Journey/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/pokephantom98765/DSA_Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/pokephantom98765/DSA_Journey/tree/master/0724-find-pivot-index) |
 | [1089-duplicate-zeros](https://github.com/pokephantom98765/DSA_Journey/tree/master/1089-duplicate-zeros) |
 | [1991-find-the-middle-index-in-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1991-find-the-middle-index-in-array) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/pokephantom98765/DSA_Journey/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1991-find-the-middle-index-in-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pokephantom98765/DSA_Journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
