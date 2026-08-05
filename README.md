@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/pokephantom98765/DSA_Journey/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/pokephantom98765/DSA_Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/pokephantom98765/DSA_Journey/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/pokephantom98765/DSA_Journey/tree/master/0877-stone-game) |
 | [1089-duplicate-zeros](https://github.com/pokephantom98765/DSA_Journey/tree/master/1089-duplicate-zeros) |
 | [1991-find-the-middle-index-in-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/pokephantom98765/DSA_Journey/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/pokephantom98765/DSA_Journey/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/pokephantom98765/DSA_Journey/tree/master/0066-plus-one) |
+| [0877-stone-game](https://github.com/pokephantom98765/DSA_Journey/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/pokephantom98765/DSA_Journey/tree/master/0374-guess-number-higher-or-lower) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pokephantom98765/DSA_Journey/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pokephantom98765/DSA_Journey/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pokephantom98765/DSA_Journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
