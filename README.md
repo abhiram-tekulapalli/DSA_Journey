@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pokephantom98765/DSA_Journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pokephantom98765/DSA_Journey/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/pokephantom98765/DSA_Journey/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0228-summary-ranges](https://github.com/pokephantom98765/DSA_Journey/tree/master/0228-summary-ranges) |
 | [0561-array-partition](https://github.com/pokephantom98765/DSA_Journey/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pokephantom98765/DSA_Journey/tree/master/0605-can-place-flowers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pokephantom98765/DSA_Journey/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/pokephantom98765/DSA_Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/pokephantom98765/DSA_Journey/tree/master/0704-binary-search) |
 ## Interactive
