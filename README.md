@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pokephantom98765/DSA_Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/pokephantom98765/DSA_Journey/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pokephantom98765/DSA_Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pokephantom98765/DSA_Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/1539-kth-missing-positive-number) |
 | [1991-find-the-middle-index-in-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1991-find-the-middle-index-in-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0018-4sum) |
 | [0561-array-partition](https://github.com/pokephantom98765/DSA_Journey/tree/master/0561-array-partition) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pokephantom98765/DSA_Journey/tree/master/0069-sqrtx) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
