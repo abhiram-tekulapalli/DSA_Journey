@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/pokephantom98765/DSA_Journey/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/pokephantom98765/DSA_Journey/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pokephantom98765/DSA_Journey/tree/master/0605-can-place-flowers) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/pokephantom98765/DSA_Journey/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/pokephantom98765/DSA_Journey/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
