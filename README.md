@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/pokephantom98765/DSA_Journey/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/pokephantom98765/DSA_Journey/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/pokephantom98765/DSA_Journey/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pokephantom98765/DSA_Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/pokephantom98765/DSA_Journey/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pokephantom98765/DSA_Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/pokephantom98765/DSA_Journey/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/pokephantom98765/DSA_Journey/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
