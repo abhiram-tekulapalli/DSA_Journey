@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pokephantom98765/DSA_Journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/pokephantom98765/DSA_Journey/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0414-third-maximum-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/pokephantom98765/DSA_Journey/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/pokephantom98765/DSA_Journey/tree/master/1089-duplicate-zeros) |
 ## Hash Table
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/pokephantom98765/DSA_Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pokephantom98765/DSA_Journey/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/pokephantom98765/DSA_Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/pokephantom98765/DSA_Journey/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/pokephantom98765/DSA_Journey/tree/master/0877-stone-game) |
