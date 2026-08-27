@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/pokephantom98765/DSA_Journey/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pokephantom98765/DSA_Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pokephantom98765/DSA_Journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/pokephantom98765/DSA_Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/pokephantom98765/DSA_Journey/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/pokephantom98765/DSA_Journey/tree/master/0877-stone-game) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0414-third-maximum-number) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pokephantom98765/DSA_Journey/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pokephantom98765/DSA_Journey/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -151,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
