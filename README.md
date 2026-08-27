@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/pokephantom98765/DSA_Journey/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/pokephantom98765/DSA_Journey/tree/master/0561-array-partition) |
@@ -51,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pokephantom98765/DSA_Journey/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [1089-duplicate-zeros](https://github.com/pokephantom98765/DSA_Journey/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0018-4sum) |
+| [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/pokephantom98765/DSA_Journey/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/pokephantom98765/DSA_Journey/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/pokephantom98765/DSA_Journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/pokephantom98765/DSA_Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/pokephantom98765/DSA_Journey/tree/master/0441-arranging-coins) |
