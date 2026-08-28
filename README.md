@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pokephantom98765/DSA_Journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pokephantom98765/DSA_Journey/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/pokephantom98765/DSA_Journey/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/pokephantom98765/DSA_Journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/pokephantom98765/DSA_Journey/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/pokephantom98765/DSA_Journey/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/pokephantom98765/DSA_Journey/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -168,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pokephantom98765/DSA_Journey/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pokephantom98765/DSA_Journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
