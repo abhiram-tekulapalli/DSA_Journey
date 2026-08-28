@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/pokephantom98765/DSA_Journey/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/pokephantom98765/DSA_Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/pokephantom98765/DSA_Journey/tree/master/0561-array-partition) |
 ## Prefix Sum
 |  |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
