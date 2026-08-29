@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0414-third-maximum-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pokephantom98765/DSA_Journey/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/pokephantom98765/DSA_Journey/tree/master/0367-valid-perfect-square) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0287-find-the-duplicate-number) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Quicksort
 |  |
@@ -240,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pokephantom98765/DSA_Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pokephantom98765/DSA_Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0073-set-matrix-zeroes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
