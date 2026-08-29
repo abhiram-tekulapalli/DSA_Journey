@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pokephantom98765/DSA_Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pokephantom98765/DSA_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pokephantom98765/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pokephantom98765/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pokephantom98765/DSA_Journey/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Quicksort
 |  |
 | ------- |
