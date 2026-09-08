@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/pokephantom98765/DSA_Journey/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/pokephantom98765/DSA_Journey/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0287-find-the-duplicate-number) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pokephantom98765/DSA_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pokephantom98765/DSA_Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/pokephantom98765/DSA_Journey/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/pokephantom98765/DSA_Journey/tree/master/0287-find-the-duplicate-number) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pokephantom98765/DSA_Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pokephantom98765/DSA_Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pokephantom98765/DSA_Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [2643-row-with-maximum-ones](https://github.com/pokephantom98765/DSA_Journey/tree/master/2643-row-with-maximum-ones) |
 ## Pigeonhole Principle
 |  |
