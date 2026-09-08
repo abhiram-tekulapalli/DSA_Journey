@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pokephantom98765/DSA_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/pokephantom98765/DSA_Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2643-row-with-maximum-ones](https://github.com/pokephantom98765/DSA_Journey/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pokephantom98765/DSA_Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pokephantom98765/DSA_Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pokephantom98765/DSA_Journey/tree/master/0073-set-matrix-zeroes) |
+| [2643-row-with-maximum-ones](https://github.com/pokephantom98765/DSA_Journey/tree/master/2643-row-with-maximum-ones) |
 ## Pigeonhole Principle
 |  |
 | ------- |
