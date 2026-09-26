@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pokephantom98765/DSA_Journey/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/pokephantom98765/DSA_Journey/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/pokephantom98765/DSA_Journey/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pokephantom98765/DSA_Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pokephantom98765/DSA_Journey/tree/master/0054-spiral-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pokephantom98765/DSA_Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pokephantom98765/DSA_Journey/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/pokephantom98765/DSA_Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pokephantom98765/DSA_Journey/tree/master/0119-pascals-triangle-ii) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pokephantom98765/DSA_Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/pokephantom98765/DSA_Journey/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/pokephantom98765/DSA_Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/pokephantom98765/DSA_Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pokephantom98765/DSA_Journey/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pokephantom98765/DSA_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pokephantom98765/DSA_Journey/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pokephantom98765/DSA_Journey/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pokephantom98765/DSA_Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pokephantom98765/DSA_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pokephantom98765/DSA_Journey/tree/master/0145-binary-tree-postorder-traversal) |
@@ -381,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pokephantom98765/DSA_Journey/tree/master/0098-validate-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pokephantom98765/DSA_Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
